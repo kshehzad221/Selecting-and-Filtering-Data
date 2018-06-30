@@ -1,0 +1,2 @@
+# Notebook Description
+This repository contains two notebooks. The one named 'Pandas Dataframe.ipynb' describes how to select and filter data in a Pandas dataframe. The other named 'Numpy Array vs Pandas Dataframe.ipynb' compares data selection and filtering in a Numpy array against a Pandas dataframe to see the similarities and differences. By going through each of these notebooks, the reader can easily master data selection and filtering in two of the most popular data structures used for doing data science.
